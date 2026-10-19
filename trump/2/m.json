@@ -1,0 +1,9 @@
+{
+  "name": "ALT COIN",
+  "symbol": "ALTCOIN",
+  "description": "Sam Altman's Coin",
+  "image": "https://raw.githubusercontent.com/noidrh/assets/main/trump/2/i.png",
+  "extensions": {
+    "twitter": "https://x.com/search?q=%24ALTCOIN"
+  }
+}
