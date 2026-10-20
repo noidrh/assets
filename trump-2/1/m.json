@@ -1,0 +1,9 @@
+{
+  "name": "Trump Coin",
+  "symbol": "TRUMP",
+  "description": "Trump Coin",
+  "image": "https://raw.githubusercontent.com/noidrh/assets/main/trump-2/1/i.png",
+  "extensions": {
+    "twitter": "https://x.com/search?q=%24TRUMP"
+  }
+}
